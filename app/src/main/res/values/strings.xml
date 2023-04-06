@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="entertask">Enter a Task...</string>
+    <string name="assignedby">Assigned By...</string>
+    <string name="assignedto">Assigned To...</string>
+    <string name="time">Time...</string>
+</resources>
